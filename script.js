@@ -1,3 +1,4 @@
+
 const senhaCorreta = "cristiana1689";
 
 // Função para entrar no painel
